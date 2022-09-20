@@ -28,4 +28,16 @@ export default {
 #mck-sidebox-launcher {
     background-color: red !important;
 }
+
+#mck-sidebox-content > div.mck-running-on.notranslate.vis{
+    display: none !important;
+}
+
+.mck-powered-by{
+    display: none !important;
+}
+
+.mck-running-on notranslate vis{
+    display: none !important;
+}
 </style>
